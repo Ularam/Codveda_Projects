@@ -1,0 +1,25 @@
+
+## 🚀 How to Run
+
+1. Clone the repository
+2. Place `Data_jobs.csv` in the root folder
+3. Open and run the Jupyter notebook `Task2.ipynb`
+4. The cleaned file will be saved as `Cleaned_Data_jobs.csv`
+
+## 📈 Next Steps (Ideas)
+
+- Exploratory Data Analysis (salary trends by location, industry, company size)
+- Visualization (e.g., average salary by job title using seaborn/matplotlib)
+- Machine Learning: Predict average salary using regression models
+
+## 👤 Author
+
+𝐔𝐥𝐚𝐫𝐚𝐦
+Data Enthusiast | Aspiring Data Scientist  
+Abuja, Nigeria
+
+---
+
+*This project is part of my data science portfolio — focused on mastering real-world data wrangling skills.*
+
+#DataScience #DataCleaning #Python #Pandas #MachineLearning #PortfolioProject
